@@ -5,6 +5,6 @@ I am final year Undergraduate pursuing B.Tech [ECE] with minors in Data Science 
 📫 How to reach me:
 <ul>
   <li/><b><a href = "https://www.linkedin.com/in/harshg1347/">LinkedIn</a></b>
-  <li/> [Email](mailto:harshapj2@gotmail.com)
+  <li/><b><a href="mailto:harshapj2@hotmail.com">Email</a></b>
 </ul>
 
