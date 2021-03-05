@@ -15,13 +15,13 @@ harsh = {
             "js": ["React"],
             "css": ["bootstrap"]
         },
-        backEnd: {
+        "backEnd": {
             "python": ["flask", "django"]
             "js": ["node", "express"],   
         },
         "ML-AI": ["Scikit-Learn","pyTorch", "Tensorflow"],
         "databases": ["mongoDB", "MySql", "sqlite"],
-        misc: ["selenium", "open-cv", "StreamLit", "Scrapy","Tableau"]
+        "misc": ["selenium", "open-cv", "StreamLit", "Scrapy","Tableau"]
     },
 }
 ```
