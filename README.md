@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2>I'm Harsh Gupta!</h2>
-<p><em>Currently in my 4th year at Manipal Institute of Technology</em></p>
+<p><em>Currently in my 4th year at Manipal Institute of Technology [ECE]</em></p>
 
 📫 How to reach me:
 <ul>
