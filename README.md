@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2>I'm Harsh Gupta!</h2>
-<p><em>Currently working as an Analyst @ Deloitte USI</em></p>
+<p><em>MSDS Student @ Indiana University Bloomington</em></p>
 
 📫 How to reach me:
 <ul>
