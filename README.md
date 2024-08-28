@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Harsh Gupta
 **`MSDS Student @ Indiana University Bloomington`**
 
