@@ -17,9 +17,9 @@ Data Specialist with over 3 years of experience in leveraging machine learning, 
 ---
 
 ### 📊 Stats
-
+<details>
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh1347&show_icons=true&theme=gruvbox)
-
+</details>
 <details>
   <summary>Click to expand!</summary>
 
