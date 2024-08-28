@@ -20,6 +20,19 @@ Data Specialist with over 3 years of experience in leveraging machine learning, 
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh1347&show_icons=true&theme=gruvbox)
 
+<details>
+  <summary>Click to expand!</summary>
+
+  ## Section Title
+  Here is the content inside the collapsible section. You can add more information, code, images, or anything else you like.
+
+  ### Subsection
+  - Point 1
+  - Point 2
+</details>
+
+
+
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Harsh1347&theme=gruvbox&border_radius=4.5) -->
 
 ### 📫 How to reach me:
