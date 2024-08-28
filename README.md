@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Harsh Gupta
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`MSDS Student @ Indiana University Bloomington`**
 
 As a seasoned data scientist and engineer with over three years of experience, I specialize in leveraging data-driven strategies to drive significant business outcomes. My expertise spans a wide range of technologies, including Python, Tableau, PySpark, AWS, and various databases like OracleDB and Postgres. In my role at Deloitte, I have successfully designed and streamlined ETL pipelines and code development for price recommendation strategies.
 
