@@ -3,7 +3,7 @@
 # Harsh Gupta
 **`MSDS Student @ Indiana University Bloomington`**
 
-As a seasoned data scientist and engineer with over three years of experience, I specialize in leveraging data-driven strategies to drive significant business outcomes. My expertise spans a wide range of technologies, including Python, Tableau, PySpark, AWS, and various databases like OracleDB and Postgres. In my role at Deloitte, I have successfully designed and streamlined ETL pipelines and code development for price recommendation strategies.
+Data Specialist with over 3 years of experience in leveraging machine learning, data analytics, and engineering to deliver actionable insights and optimize business processes. Proficient in Python, Tableau, SQL, and various data science tools.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
