@@ -22,7 +22,7 @@ Data Specialist with over 3 years of experience in leveraging machine learning, 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Harsh1347&theme=gruvbox&border_radius=4.5) -->
 
-📫 How to reach me:
+### 📫 How to reach me:
 <ul>
   <li/><b><a href = "https://www.linkedin.com/in/harshg1347/">LinkedIn</a></b>
   <li/><b><a href="mailto:harsh.gupta34@outlook.com">Email</a></b>
