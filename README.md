@@ -24,6 +24,42 @@ Data Specialist with over 3 years of experience in leveraging machine learning, 
 </details>
 
 ---
+## 💼 Work Experience
+
+### Deloitte USI, Strategy & Analytics Division
+**Role:** Consultant  
+**Duration:** 3 Years  
+- Worked on data science and engineering projects, focusing on strategy and analytics.
+- Developed a price recommendation strategy for a Quick Service Restaurant (QSR) client, involving data preparation, machine learning modeling, and visualization through a Tableau dashboard.
+- Optimized ETL pipelines for an insurance client to improve data processing efficiency.
+- Led initiatives that significantly impacted business outcomes, driving data-driven decision-making processes.
+
+### Samsung Research Institute
+**Role:** Engineer  
+**Focus Area:** Image Processing and Computer Vision  
+- Gained experience in developing and implementing computer vision algorithms and image processing techniques.
+- Contributed to projects that leveraged deep learning models for visual data analysis.
+
+### Freelance Developer
+- Developed a Discord notification service for a sneaker sales community, successfully tracking 7 websites and sending real-time alerts to over 1,200 members. This project generated $300K in revenue by facilitating the sale of 1,000+ premium sneakers.
+- Created a university assistant chatbot, enhancing the digital experience for students and staff.
+
+## 🛠️ Skills
+
+- **Languages:** Python, R, SQL
+- **Tools & Frameworks:** Tableau, Machine Learning, Data Engineering, ETL Optimization
+- **Specializations:** Data Science, Computer Vision, Image Processing, Analytics Consulting
+
+## 🎓 Education
+
+- **Master of Science in Data Science (Ongoing)**  
+  Indiana University Bloomington
+
+- **Bachelor of Technology in Electronics and Communication**  
+  Minor in Data Science  
+  Manipal Institute of Technology
+
+---
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Harsh1347&theme=gruvbox&border_radius=4.5) -->
 
